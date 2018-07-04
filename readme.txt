@@ -4,3 +4,4 @@ this is new line
 
 asdsdf
 Git has a mutable index called stage.
+modify of file
