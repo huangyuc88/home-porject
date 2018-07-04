@@ -5,4 +5,5 @@ this is new line
 asdsdf
 Git has a mutable index called stage.
 modify of file add
-asdg
+My stupid boss still prefers SVN.
+asdgasdgds
